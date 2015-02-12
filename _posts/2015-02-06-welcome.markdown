@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome"
+date:   2015-02-06 22:58:00
+category: photography
+tags: animal photography
+---
+
+<a href="https://www.flickr.com/photos/yok-tin/15118145589" title="Pensive Bunny by tikyon, on Flickr"><img src="https://farm4.staticflickr.com/3868/15118145589_2701e24e12_c.jpg" width="800" height="530" alt="Pensive Bunny"></a>
+
+Say "Hi" to this little bunny, who was roaming around in my neighbourhood.
+
+[my-flickr]:      http://www.flickr.com/photos/yok-tin
