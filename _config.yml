@@ -2,7 +2,7 @@
 title: Experiment Tin
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  Someone who is learning how to use Jekyll to build a blog. My main hobbies are photography and drawings. Here's my other personal webpage: <a href="http://individual.utoronto.ca/kyonitsu">CAYOTIPLI</a>.
+  Someone who is learning how to use Jekyll to build a blog. My main hobbies are photography and drawings.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: tikyon
