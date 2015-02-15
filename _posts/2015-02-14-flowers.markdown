@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Flowers"
+date:   2015-02-14 23:30:00
+category: photography
+tags: flowers photography
+---
+
+We went to some flower shopping for Chinese New Year, which is next Thursday! These are some photos edited in Lightroom. I didn't realize that the lighting colour was pretty bad when I took the photos >_<
+
+<a href="https://www.flickr.com/photos/yok-tin/16348894557" title="pink by Parlin, on Flickr"><img src="https://farm9.staticflickr.com/8652/16348894557_2b6044a457_c.jpg" width="800" height="530" alt="pink"></a>
+
+<a href="https://www.flickr.com/photos/yok-tin/15914623833" title="Rose by Parlin, on Flickr"><img src="https://farm8.staticflickr.com/7431/15914623833_63c1973fff_c.jpg" width="800" height="530" alt="Rose"></a>
+
+<a href="https://www.flickr.com/photos/yok-tin/16347500020" title="Mixed bouquet by Parlin, on Flickr"><img src="https://farm8.staticflickr.com/7303/16347500020_9d2f7e8b7c_c.jpg" width="800" height="530" alt="Mixed bouquet"></a>
+
