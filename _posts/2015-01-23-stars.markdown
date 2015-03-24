@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Stars"
+date:   2015-01-23 23:58:00
+category: photography
+tags: sky photography
+---
+
+<a href="https://www.flickr.com/photos/yok-tin/16179843018" title="Stars by tikyon, on Flickr"><img src="https://farm9.staticflickr.com/8649/16179843018_ccb28fe1eb_c.jpg" width="800" height="600" alt="Stars"></a>
+
+Trying out the "star mode" on my S120 camera. It was too bright in the original photo, so some adjustments were made. It was so cold that night. Winter is brutal during night time...

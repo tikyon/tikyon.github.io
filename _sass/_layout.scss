@@ -11,6 +11,27 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    .rss-subscribe {
+        float: right;
+        margin-top: 1em;
+        color: #999;
+
+        a {
+            &,
+            &:visited {
+                padding: .5em;
+                background-color: lighten($brand-color, 20%);
+                border-radius: 5px;
+                color: darken($brand-color, 15%);
+            }
+
+            &:hover {
+                color: #fff;
+                background-color: darken($brand-color, 5%);
+            }
+        }
+    }
 }
 
 .site-title {
@@ -170,7 +191,6 @@
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
 }
-
 
 
 /**
