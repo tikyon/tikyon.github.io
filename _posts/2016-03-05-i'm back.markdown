@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Hello, again"
+date:   2016-03-05 19:07:08
+tags: unfiled
+---
+
+I'm somewhat back! I didn't touch this for a year. It was a bit of a pain to get Jekyll back and running after the El Capitan update :\
+
+(I went with the Homebrew route and successfully reinstalled Jekyll.)
+
+I'm still figuring what to use this for. I have recently been playing around with Twitter Bootstrap, so I might revamp the look of this using that.
