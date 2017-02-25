@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: tikyon
 github_username:  tikyon
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jemoji]
 paginate: 5
 paginate_path: "page:num"
 

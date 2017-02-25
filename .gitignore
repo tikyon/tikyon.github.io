@@ -1,5 +1,6 @@
 _site
 _drafts
 .sass-cache
+_excludethis
 
 about.md

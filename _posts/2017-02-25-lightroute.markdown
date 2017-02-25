@@ -6,4 +6,4 @@ category: game
 tags: game puzzle
 ---
 
-My brother is working on a puzzle game called "<a href="http://takonan.github.io/LightRoute/" target="blank">Light Route</a>". Give it a try if you're bored.
+My brother is working on a puzzle game called "<a href="http://takonan.github.io/LightRoute/" target="blank">Light Route</a>". Give it a try if you're bored. :grin:
