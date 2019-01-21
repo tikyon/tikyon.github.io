@@ -1,17 +1,17 @@
 - name: Twitter
   link: twitter.com/tikyon
 
-- name: DeviantArt
-  link: jensaru.deviantart.com
+- name: Facebook
+  link: www.facebook.com/tikyon
 
 - name: Flickr
   link: www.flickr.com/photos/yok-tin
 
-- name: Facebook
-  link: www.facebook.com/tikyon
+- name: DeviantArt
+  link: jensaru.deviantart.com
 
 - name: Tumblr
   link: pluiet.tumblr.com
 
-- name: Exteen
-  link: jaelsoul.exteen.com
+# - name: Exteen
+#   link: jaelsoul.exteen.com
