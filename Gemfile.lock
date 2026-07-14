@@ -283,6 +283,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jemoji
+  nokogiri (>= 1.18.9)
 
 BUNDLED WITH
   4.0.16
